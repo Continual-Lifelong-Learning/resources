@@ -1,6 +1,6 @@
 # lifelong-learning-reading-group
 
-A Lifelong learning reading group at the Carnegie Mellon University.
+A lifelong learning reading group at the Carnegie Mellon University.
 
 
 ### [Summer 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Reading-group-2019-papers)
