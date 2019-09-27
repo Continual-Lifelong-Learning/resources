@@ -11,6 +11,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Useful Links](#useful-links)
 * [Survey Papers](#survey-papers)
 * [Main Topics](#main-topics)
+  * Categorize into challenges and methods
   * [Benchmarks and Evaluation Metrics](#benchmarks-and-evaluation-metrics)
   * [Regularization](#regularization)
   * [Dynamic Architecture](#dynamic-architecture)
