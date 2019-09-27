@@ -38,3 +38,4 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 ### Useful Links
 * [Lifelong Machine Leanring Group](http://lifelongml.org/)
 * [Lifelong Learning: A Reinforcement Learning Approach Workshop @ ICML 2018](https://sites.google.com/view/llarla2018/home)
+* [Workshop on Multi-Task and Lifelong Reinforcement Learning @ ICML 2019](https://sites.google.com/view/mtlrl/)
