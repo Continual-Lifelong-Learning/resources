@@ -17,10 +17,13 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
   * [Memory](#memory)
   * [Intrinsic Motivation](#intrinsic-motivation)
   * [Neural Plasticity](#neural-plasticity)
-  * [Transfer Learning](#reinforcement-learning)
-  * [Multitask Learning](#reinforcement-learning)  
+  * [Transfer Learning](#transfer-learning)
+  * [Meta Learning](#meta-learning)
+  * [Active Learning](#active-learning)
+  * [Multitask Learning](#multitask-learning)
+  * [Online Learning](#online-learning)
   * [Reinforcement Learning](#reinforcement-learning)
-  * [Curricular Learning](#catastropic-forgetting)
+  * [Curricular Learning](#curricular-learning)
 
 ### Survey Papers
 * [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/abs/1802.07569)
@@ -39,3 +42,5 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Lifelong Machine Leanring Group](http://lifelongml.org/)
 * [Lifelong Learning: A Reinforcement Learning Approach Workshop @ ICML 2018](https://sites.google.com/view/llarla2018/home)
 * [Workshop on Multi-Task and Lifelong Reinforcement Learning @ ICML 2019](https://sites.google.com/view/mtlrl/)
+* [Deep Multi-Task and Meta Learning @ Stanford CS](http://web.stanford.edu/class/cs330/)
+* [Continual learning Workshop @ NIPS 18](https://sites.google.com/view/continual2018)
