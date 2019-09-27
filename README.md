@@ -33,6 +33,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Continual Reinforcement Learning with Complex Synapses](http://proceedings.mlr.press/v80/kaplanis18a.html)
 * [Continual Learning in Reinforcement Environments](https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf)
 * [Safe Policy Search for Lifelong Reinforcement Learning with Sublinear Regret](http://proceedings.mlr.press/v37/ammar15.pdf)
+* [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](file:///Users/byungsoj/Downloads/14630-66434-1-PB.pdf)
 
 ### Useful Links
 * [Lifelong Machine Leanring Group](http://lifelongml.org/)
