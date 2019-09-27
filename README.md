@@ -16,7 +16,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 ### Survey Papers
 * [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/abs/1802.07569)
 * [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
-** [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
+  * [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 
 ### Reinforcement Learning
 * [Unicorn: Continual Learning with a Universal, Off-policy Agent](https://arxiv.org/abs/1802.08294)
