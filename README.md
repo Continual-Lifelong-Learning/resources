@@ -13,7 +13,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Challenges](#challenges)
   * [Catastrophic Forgetting](#catastrophic-forgetting)
   * [Benchmarks and Evaluation Metrics](#benchmarks-and-evaluation-metrics)
-  * [Metacognition](#metacognition)
+<!--  * [Metacognition](#metacognition) -->
   * [Intrinsic Motivation](#intrinsic-motivation)
   * [Neural Plasticity](#neural-plasticity)
   * [Memory](#memory)
