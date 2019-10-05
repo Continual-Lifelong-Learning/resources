@@ -33,10 +33,23 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
   * [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 
-### Reinforcement Learning
-* [Unicorn: Continual Learning with a Universal, Off-policy Agent](https://arxiv.org/abs/1802.08294)
+### Catastrophic Forgetting
+* [Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369)
 * [Continual Reinforcement Learning with Complex Synapses](http://proceedings.mlr.press/v80/kaplanis18a.html)
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
+* [Continual Learning with Deep Generative Replay](https://arxiv.org/abs/1705.08690)
+* [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840)
+* [Learning without Forgetting](https://arxiv.org/abs/1606.09282)
+* [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211)
+* [Less-forgetting Learning in Deep Neural Networks](https://arxiv.org/abs/1607.00122)
+
+### Intrinsic Motivation
+* [Online Learning with Stochastic Recurrent Neural Networks using Intrinsic Motivation Signals](http://proceedings.mlr.press/v78/tanneberg17a/tanneberg17a.pdf)
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)
+
+### Reinforcement Learning
+* [Unicorn: Continual Learning with a Universal, Off-policy Agent](https://arxiv.org/abs/1802.08294)
 * [Continual Learning in Reinforcement Environments](https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf)
 * [Safe Policy Search for Lifelong Reinforcement Learning with Sublinear Regret](http://proceedings.mlr.press/v37/ammar15.pdf)
 * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://arxiv.org/abs/1604.07255)
