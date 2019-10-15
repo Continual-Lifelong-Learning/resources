@@ -44,6 +44,7 @@ perceptual problems](https://hal.archives-ouvertes.fr/hal-01418123/document)
 * [THE KANERVA MACHINE:A GENERATIVE DISTRIBUTED MEMORY](https://arxiv.org/pdf/1804.01756.pdf)
 * [Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/pdf/1803.03745.pdf)
 * [Latent Multi-task Architecture Learning](https://arxiv.org/pdf/1705.08142.pdf)
+* [Using Task Features for Zero-Shot Knowledge Transfer in Lifelong Learning](https://www.seas.upenn.edu/~eeaton/papers/Isele2016Using.pdf)
 
 ### Catastrophic Forgetting
 * [Catastrophic Forgetting, Rehearsal, and Pseudorehearsal](http://www.cs.otago.ac.nz/staffpriv/anthony/publications/pdfs/Robins95.pdf)
