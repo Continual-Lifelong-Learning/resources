@@ -33,6 +33,8 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
   * [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 
+### Long-term Memory Consolidation and Retrieval
+
 ### Catastrophic Forgetting
 * [Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369)
