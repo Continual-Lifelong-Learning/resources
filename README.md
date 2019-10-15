@@ -40,6 +40,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [Short-term plasticity as cause–effect hypothesis testing in distal reward learning](https://link.springer.com/article/10.1007/s00422-014-0628-0)
 * [A bio-inspired incremental learning architecture for applied
 perceptual problems](https://hal.archives-ouvertes.fr/hal-01418123/document)
+* [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 
 
 ### Catastrophic Forgetting
