@@ -34,9 +34,19 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
   * [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 
 ### Long-term Memory Consolidation and Retrieval
+* [What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated (https://daneshyari.com/article/preview/141354.pdf)
+* [Pseudo-recurrent Connectionist Networks: An Approach to the 'Sensitivity-Stability' Dilemma](https://www.tandfonline.com/doi/abs/10.1080/095400997116595)
+* [Hippocampal and neocortical contributions to memory: Advances in the complementary learning systems framework](http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/hippocampal-and-neocortical-contributions-to-memory.pdf)
+* [Short-term plasticity as cause–effect hypothesis testing in distal reward learning](https://link.springer.com/article/10.1007/s00422-014-0628-0)
+* [A bio-inspired incremental learning architecture for applied
+perceptual problems](https://hal.archives-ouvertes.fr/hal-01418123/document)
+
 
 ### Catastrophic Forgetting
+* [Catastrophic Forgetting, Rehearsal, and Pseudorehearsal](http://www.cs.otago.ac.nz/staffpriv/anthony/publications/pdfs/Robins95.pdf)
 * [Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
+* [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/pdf/1612.00796.pdf)
+* [Neurogenesis Deep Learning](https://arxiv.org/pdf/1612.03770.pdf)
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369)
 * [Continual Reinforcement Learning with Complex Synapses](http://proceedings.mlr.press/v80/kaplanis18a.html)
 * [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
