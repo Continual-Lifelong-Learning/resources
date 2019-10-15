@@ -34,7 +34,7 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
   * [Tutorial @ KDD 16](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 
 ### Long-term Memory Consolidation and Retrieval
-* [What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated] (https://daneshyari.com/article/preview/141354.pdf)
+* [What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated](https://daneshyari.com/article/preview/141354.pdf)
 * [Pseudo-recurrent Connectionist Networks: An Approach to the 'Sensitivity-Stability' Dilemma](https://www.tandfonline.com/doi/abs/10.1080/095400997116595)
 * [Hippocampal and neocortical contributions to memory: Advances in the complementary learning systems framework](http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/hippocampal-and-neocortical-contributions-to-memory.pdf)
 * [Short-term plasticity as cause–effect hypothesis testing in distal reward learning](https://link.springer.com/article/10.1007/s00422-014-0628-0)
