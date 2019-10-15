@@ -41,7 +41,9 @@ The group will be meeting nearly every Friday during 2019 from 1:30-2:30PM EST i
 * [A bio-inspired incremental learning architecture for applied
 perceptual problems](https://hal.archives-ouvertes.fr/hal-01418123/document)
 * [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
-
+* [THE KANERVA MACHINE:A GENERATIVE DISTRIBUTED MEMORY](https://arxiv.org/pdf/1804.01756.pdf)
+* [Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/pdf/1803.03745.pdf)
+* [Latent Multi-task Architecture Learning](https://arxiv.org/pdf/1705.08142.pdf)
 
 ### Catastrophic Forgetting
 * [Catastrophic Forgetting, Rehearsal, and Pseudorehearsal](http://www.cs.otago.ac.nz/staffpriv/anthony/publications/pdfs/Robins95.pdf)
