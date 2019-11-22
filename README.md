@@ -62,6 +62,7 @@ perceptual problems](https://hal.archives-ouvertes.fr/hal-01418123/document)
 * [Learning without Forgetting](https://arxiv.org/abs/1606.09282)
 * [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/abs/1312.6211)
 * [Less-forgetting Learning in Deep Neural Networks](https://arxiv.org/abs/1607.00122)
+* [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://openreview.net/pdf?id=BJlxm30cKm)
 
 ### Intrinsic Motivation
 * [Online Learning with Stochastic Recurrent Neural Networks using Intrinsic Motivation Signals](http://proceedings.mlr.press/v78/tanneberg17a/tanneberg17a.pdf)
